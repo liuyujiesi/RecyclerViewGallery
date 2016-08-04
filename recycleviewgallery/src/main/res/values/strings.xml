@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecycleViewGallery</string>
+    <drawable name="item_normal">#00000000</drawable>
+    <drawable name="item_pressed">#B6B6B6</drawable>
+</resources>
